@@ -9,11 +9,11 @@ h1 {
 color: #333;
 }
 p {
-color: #00BFFF;
+color: #666;
 }
 /* Estilos para a classe .destaque */
 .destaque {
-background-color: #ffcc00;
+background-color: #00BFFF;
 padding: 10px;
 
 }
